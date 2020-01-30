@@ -1,0 +1,27 @@
+
+    header {
+        padding: 0 139px 0 141.8px
+    }
+
+    h1 {
+        font-size: 50px;
+    }
+  
+    p {
+        font-size: 14px;
+    }
+
+    .anchor-fullinfo {
+        font-size: 14px;  
+    }
+    
+    .anchor-scroll {
+        font-size: 10px;
+        padding-top: 93px;
+        padding-bottom: 35px;
+    }
+
+    .section1-content {
+        height: 700px;
+    }
+  
